@@ -1,0 +1,6 @@
+{
+  "name": "Personal Life Assistant",
+  "description": "Your calendar, plans, birthdays and AI assistant in one place. Smart voice planner, holidays, reminders, and offline PWA.",
+  "requestFramePermissions": ["microphone", "notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
